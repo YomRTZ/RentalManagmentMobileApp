@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468296418746",
+    "project_id": "rental-management-system-a6055",
+    "storage_bucket": "rental-management-system-a6055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468296418746:android:22e57f2b383253e2cb0983",
+        "android_client_info": {
+          "package_name": "com.project.rentalmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5v_WXPOwIM_MEZA-x1Nfg0bxjFUF8TQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
