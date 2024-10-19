@@ -24,5 +24,5 @@ To run this project locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YomRTZ/rental-management-app.git
+   git clone https://github.com/YomRTZ/Rental_Managment_MobileApp
    cd rental-management-app
