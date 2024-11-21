@@ -1,15 +1,31 @@
-# Rental Management Mobile App
+# PropertyPulse Management Mobile App
 
-This **Rental Management Mobile App** is designed to help users manage rental properties, tenants, and payments efficiently. The app uses **React Native** for the front end, providing a smooth mobile experience, and **Firebase** as the back end to manage data storage, authentication, and real-time updates.
+This **Property Management Mobile App** is designed to help users manage properties, residents, and payments efficiently. The app uses **React Native** for the front end, providing a smooth mobile experience, and **Firebase** as the back end to manage data storage, authentication, and real-time updates.
 
 ## Features
 
-- **Property Management:** Add, edit, and delete rental properties.
-- **Tenant Management:** Add and manage tenant information, including rental agreements.
-- **Payments Tracking:** Track rental payments, calculate due amounts, and manage deposits.
-- **Notifications:** Send reminders and notifications to tenants via Firebase.
+- **Property Management:** Add, edit, and delete properties.
+- **Resident Management:** Add and manage resident information, including rental agreements.
+- **Payments Tracking:** Track payments, calculate due amounts, and manage deposits.
+- **Notifications:** Send reminders and notifications to residents via Firebase.
 - **Real-time Data Sync:** Data syncs instantly across devices using Firebase Firestore.
 - **Authentication:** Secure login for property managers using Firebase Authentication.
+
+## Tech Stack
+
+- **Frontend:** React Native
+- **Backend:** Firebase (Firestore, Firebase Authentication, Firebase Cloud Messaging)
+- **Database:** Firebase Firestore
+- **Notifications:** Firebase Cloud Messaging
+
+## Installation
+
+To run the app locally, follow these steps:
+
+1. Clone this repository:
+   ```bash
+   git clone <repository-url>
+
   
 ## Tech Stack
 
